@@ -511,3 +511,14 @@ Using Docker ensures that your application is:
 - Efficient in terms of resources and reproducible for debugging and testing.
 
 In short, Docker streamlines the entire application lifecycle, from local development to cloud deployment, making it an indispensable tool for modern software projects.
+
+
+
+
+## Tech Stack
+
+- **Backend API**: Node.js, Express
+- **Containerization**: Docker
+- **Serverless Deployment**: Google Cloud Run
+- **Container Registry**: Google Artifact Registry
+- **DevOps Tools**: Git, GitHub, Google Cloud Console
